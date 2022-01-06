@@ -59,4 +59,8 @@ h3{
 }
 footer{
     text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 20px;
 }
